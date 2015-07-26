@@ -1,4 +1,6 @@
-package com.example.android_kindergarten;
+package com.wzt.kindergarten;
+
+import com.example.android_kindergarten.R;
 
 import android.app.Activity;
 import android.os.Bundle;
