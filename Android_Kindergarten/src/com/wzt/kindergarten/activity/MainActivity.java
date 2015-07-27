@@ -1,4 +1,4 @@
-package com.wzt.kindergarten;
+package com.wzt.kindergarten.activity;
 
 import com.example.android_kindergarten.R;
 
