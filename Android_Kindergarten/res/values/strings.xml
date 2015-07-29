@@ -10,7 +10,7 @@
     <string name="btn_login">登  录</string>
     <string name="ev_username">请输入手机号</string>
     <string name="ev_password">请输入密码</string>
-    <string name="spinner_title">请选择您的身份</string>
+    <string name="spinner_title">请选择身份</string>
     <string name="bottom_btn_kindergarten">幼儿园</string>
     <string name="bottom_btn_me">我</string>
     <string name="bottom_btn_inform">通知</string>
